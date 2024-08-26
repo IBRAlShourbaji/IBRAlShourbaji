@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IBRAlShourbaji
-- 👀 I’m interested in networking and optimization.
+- 👀 I’m interested in optimization algorithms.
 - 💞️ I’m looking to collaborate on nature-inspired optimization.
 - 📫 How to reach me ...
 
