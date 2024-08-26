@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @IBRAlShourbaji
-- 👀 I’m interested in optimization algorithms.
+- 👋 Hi, I’m Ibrahim AlShourbaji
+- 👀 I’m interested in ML and optimization algorithms.
 - 💞️ I’m looking to collaborate on nature-inspired optimization.
-- 📫 How to reach me ...
+- 📫 How to reach me email: alshourbajiibrahim@gmail.com  
 
 
 <!---
